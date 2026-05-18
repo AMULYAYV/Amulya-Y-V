@@ -1,0 +1,6 @@
+{
+  "name": "ZenHealth",
+  "description": "A comprehensive wellness companion featuring an AI health coach, health metrics dashboard, meditation timer, mood tracking, and a native Android wrapper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
